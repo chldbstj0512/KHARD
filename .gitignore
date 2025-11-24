@@ -1,2 +1,4 @@
 .env
 /data
+clean_data.npz
+data.npz
